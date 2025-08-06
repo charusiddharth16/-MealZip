@@ -8,7 +8,7 @@ An android application  named “MealZip” to curb the hassle in the college ca
 
 ## Meet our team :
 1. __Abhishek Srivas__ &nbsp; <a href="https://github.com/Abhishek-Srivas">Github</a> <a href="https://www.linkedin.com/in/abhishek-srivas-8421611a1/">Linkedin</a>
-2. __Charu Suddharth__ &nbsp;  <a href="https://github.com/charusiddharth16</a> <a href="https://www.linkedin.com/in/charu-siddharth-ab5a4b227/">Linkedin</a>
+2. __Charu Suddharth__ &nbsp;  <a href="https://github.com/charusiddharth16">Github</a> <a href="https://www.linkedin.com/in/charu-siddharth-ab5a4b227/">Linkedin</a>
 3. __Himanshu Sachan__ &nbsp; <a href="https://github.com/h01sachan">Github</a> <a href="https://www.linkedin.com/in/----/">Linkedin</a>
 4. __Kapil Yadav__  &nbsp;<a href="https://github.com/KapilYadav-dev">Github</a> <a href="https://www.linkedin.com/in/----/">Linkedin</a>
 
