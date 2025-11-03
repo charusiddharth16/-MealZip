@@ -10,7 +10,7 @@ const consumerSchema = new mongoose.Schema({
     type: String,
     require: false,
     max: 10,
-    min: 10,
+    min: 10, 
   },
   email: {
     type: String,
