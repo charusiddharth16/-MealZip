@@ -5,7 +5,7 @@ const { body } = require("express-validator");
 const isAuth = require("../middleware/isAuth");
 
 router.post(
-  "/consumer-signup",
+  "/consumer-signup", 
   [
     body("email")
       .isEmail()
