@@ -7,7 +7,7 @@ const { validationResult } = require("express-validator");
 const otpGenerator = require("otp-generator");
 const emailSender = require("../utils/mailsender");
 const JWT = require("jsonwebtoken");
-const dotenv = require("dotenv");
+const dotenv = require("dotenv"); 
 dotenv.config();
 // const { authSchema } = require('../helpers/validation_Schema');
 
