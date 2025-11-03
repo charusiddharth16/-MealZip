@@ -6,3 +6,4 @@ router.post("/placeOrder", consumerController.placeOrder);
 router.put("/rating", consumerController.rating);
 
 module.exports = router;
+ 
