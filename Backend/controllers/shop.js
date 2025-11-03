@@ -14,7 +14,7 @@ exports.shopInfo = (req, res, next) => {
   const inCollege = req.body.inCollege;
 
   Users.findOne({ email: email }).then((User) => {
-    User.shopName = shopName;
+    User.shopName = shopName; 
     User.college = college;
     User.name = name;
     User.inCollege = inCollege;
