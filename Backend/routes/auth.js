@@ -7,7 +7,7 @@ const isAuth = require("../middleware/isAuth");
 router.post(
   "/signup",
   [
-    body("email")
+    body("email") 
       .isEmail()
       .withMessage("Please Enter a Valid Email") //Stored in error object which can be retrived.
       .custom((value) => {
