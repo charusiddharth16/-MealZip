@@ -8,7 +8,7 @@ exports.addCategory = (req, res, next) => {
   for (const i in category) {
     obj = {
       category: category[i],
-    };
+    }; 
     categoryList.push(obj);
   }
   console.log(categoryList);
