@@ -9,7 +9,7 @@ const consumerAuthRoutes = require("./routes/auth.consumer");
 const shopRoutes = require("./routes/shop");
 const adminRoutes = require("./routes/admin");
 const consumerRoutes = require("./routes/consumer");
-require('dotenv').config();
+require('dotenv').config(); 
 
 const app = express();
 
