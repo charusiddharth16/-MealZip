@@ -10,7 +10,7 @@ exports.getShop = async (req, res, next) => {
   const shops = await shopSchema.find({ college: collegeName });
   // if(shops.isEmpty()){
   //     res.json("No Shops of your Collage are registered")
-  // }
+  // } 
   res.json(shops);
 };
 
